@@ -1,0 +1,9 @@
+{
+  "name": "Northern Lights Geomagnetic",
+  "symbol": "NLG",
+  "description": "Illuminate Your Wealth with Northern Lights Geomagnetic. Telegram: https://t.me/NLGonSOL",
+  "image": "https://raw.githubusercontent.com/nordstageyt/token-test/main/nlg/nlg.png",
+  "extensions": {
+    "telegram": "https://t.me/NLGonSOL"
+  }
+}
